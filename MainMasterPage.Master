@@ -1,0 +1,43 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" Inherits="WebProject.MainMasterPage" CodeFile="~/MainMasterPage.Master.cs" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Master Page</title>
+    <link href="StyleSheet1.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+	 <form id="form1" runat="server" width="100%">
+<div id="head">
+<div class="wrap">
+	<%--<h1>WELCOME TO MY HOME PAGE</h1>--%>
+<div id="nav">
+	<ul>
+		<li><a href="Home.aspx">Home</a></li>
+        <li><a>AboutUs</a></li>
+        <li><a>Gallery</a></li>
+		<li><a href="Registration.aspx">Registration</a></li>
+		<li><a href="Login.aspx">Login</a></li>
+		<li><a>ContactUs</a></li>
+	</ul>
+</div>
+    <asp:Image ID="img1" runat="server" ImageUrl="~/Images/welcome-to-our-new-website-529x269.jpg" AlternateText="image" ToolTip="this is an image" Height="93px" Width="940px" BorderColor="#006666" BorderWidth="2px"/>
+</div>
+</div>
+    <div>
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+			
+<div id="footer"><%--<div class="wrap">
+	<div id="footnav">--%>	
+<p class="foot">
+	Copy Right @ ASHOK-16.</p>
+        </div>
+<%--</div>
+</div>--%>
+</body>
+</html>

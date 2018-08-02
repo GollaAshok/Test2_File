@@ -1,0 +1,12 @@
+C:\LogicsInCSharp\WebProject\WebProject\bin\WebProject.dll.config
+C:\LogicsInCSharp\WebProject\WebProject\bin\WebProject.dll
+C:\LogicsInCSharp\WebProject\WebProject\bin\WebProject.pdb
+C:\LogicsInCSharp\WebProject\WebProject\obj\Debug\WebProject.csprojResolveAssemblyReference.cache
+C:\LogicsInCSharp\WebProject\WebProject\obj\Debug\WebProject.dll
+C:\LogicsInCSharp\WebProject\WebProject\obj\Debug\WebProject.pdb
+D:\WebProject\WebProject\bin\WebProject.dll.config
+D:\WebProject\WebProject\bin\WebProject.dll
+D:\WebProject\WebProject\bin\WebProject.pdb
+D:\WebProject\WebProject\obj\Debug\WebProject.csprojResolveAssemblyReference.cache
+D:\WebProject\WebProject\obj\Debug\WebProject.dll
+D:\WebProject\WebProject\obj\Debug\WebProject.pdb
