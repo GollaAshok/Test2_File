@@ -16,5 +16,7 @@
 <div id="content">
     <asp:Image ID="img2" runat="server" ImageUrl="~/Images/welcome-message-winter-background-blue.jpg" ToolTip="This is an image" Height="303px" Width="806px" />
     </div>
+
+        <p>This is new para</p>
         </div>
  </asp:Content>
